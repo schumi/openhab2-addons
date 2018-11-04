@@ -106,7 +106,8 @@ public class KebaBindingConstants {
         V3042A1("3.04.2a1"),
         V3062A5("3.06.2a5"),
         V3071A1("3.07.1a1"),
-        V3084("3.08.4");
+        V3084("3.08.4"),
+        V3914("3.9.14");
 
         private final String id;
 
